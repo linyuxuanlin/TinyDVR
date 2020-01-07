@@ -1,0 +1,39 @@
+Added Component: Designator=P3(HDR1X10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(HDR1X10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=5VOUT Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P3-4
+Added Pin To Net: NetName=GND Pin=P3-5
+Added Pin To Net: NetName=GND Pin=P3-6
+Added Pin To Net: NetName=VCC Pin=P3-7
+Added Pin To Net: NetName=VCC Pin=P3-8
+Added Pin To Net: NetName=VCC Pin=P3-9
+Added Pin To Net: NetName=VCC Pin=P3-10
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=5VOUT Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P4-3
+Added Pin To Net: NetName=GND Pin=P4-4
+Added Pin To Net: NetName=GND Pin=P4-5
+Added Pin To Net: NetName=GND Pin=P4-6
+Added Pin To Net: NetName=VCC Pin=P4-7
+Added Pin To Net: NetName=VCC Pin=P4-8
+Added Pin To Net: NetName=VCC Pin=P4-9
+Added Pin To Net: NetName=VCC Pin=P4-10
+Added Member To Class: ClassName=ZenDriver_Master Member=Component C1 4.7uF 25V
+Added Member To Class: ClassName=ZenDriver_Master Member=Component C2 10uF 4.5V tan
+Added Member To Class: ClassName=ZenDriver_Master Member=Component C3 6.8nF (682) 10% 50V
+Added Member To Class: ClassName=ZenDriver_Master Member=Component D1 B130LAW-7-F
+Added Member To Class: ClassName=ZenDriver_Master Member=Component P3 Header 10
+Added Member To Class: ClassName=ZenDriver_Master Member=Component P4 Header 10
+Added Member To Class: ClassName=ZenDriver_Master Member=Component R1 44.2K
+Added Member To Class: ClassName=ZenDriver_Master Member=Component R2 10K
+Added Member To Class: ClassName=ZenDriver_Master Member=Component R3 6.8K¦¸ (6801) ¡À1%

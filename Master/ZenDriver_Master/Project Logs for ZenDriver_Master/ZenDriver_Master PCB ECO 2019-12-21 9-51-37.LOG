@@ -1,0 +1,41 @@
+Added Component: Designator=C3(CAPAE1350X1400N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/pbs/datasheet/865060462010.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "14mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "865060462010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-865060462010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-865060462010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "8395599"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/8395599"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOIC127P600X170-9N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/datasheet/2/277/MP1484-1186021.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Monolithic Power Systems (MPS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MP1484EN-LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "946-MP1484ENLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=946-MP1484ENLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(0603_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_26546.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25803"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=VCC Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=IC1-4
+Added Pin To Net: NetName=GND Pin=IC1-9
+Added Pin To Net: NetName=VCC Pin=R4-1
+Added Pin To Net: NetName=NetIC1_7 Pin=IC1-7
+Added Pin To Net: NetName=NetIC1_7 Pin=R4-2
+Added Net: Name=NetIC1_7
+Added Member To Class: ClassName=ZenDriver_Master Member=Component C3 1000uf 25v
+Added Member To Class: ClassName=ZenDriver_Master Member=Component IC1 MP1484EN-LF
+Added Member To Class: ClassName=ZenDriver_Master Member=Component R4 100KΩ (1003) ±1%
+Added Room: Name=ZenDriver_Master

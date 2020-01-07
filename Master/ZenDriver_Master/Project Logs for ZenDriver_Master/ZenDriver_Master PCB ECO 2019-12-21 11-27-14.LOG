@@ -1,0 +1,306 @@
+Removed Pin From Net: NetName=5VOUT Pin=P1-1
+Removed Pin From Net: NetName=5VOUT Pin=P1-3
+Removed Pin From Net: NetName=5VOUT Pin=P1-4
+Removed Pin From Net: NetName=5VOUT Pin=P1-5
+Removed Pin From Net: NetName=GND Pin=P1-7
+Removed Pin From Net: NetName=GND Pin=P1-8
+Removed Pin From Net: NetName=GND Pin=P1-9
+Removed Pin From Net: NetName=GND Pin=P1-10
+Removed Pin From Net: NetName=VCC Pin=P1-11
+Removed Pin From Net: NetName=VCC Pin=P1-12
+Removed Pin From Net: NetName=VCC Pin=P1-13
+Removed Pin From Net: NetName=VCC Pin=P1-14
+Removed Pin From Net: NetName=VCC Pin=P1-15
+Removed Pin From Net: NetName=VCC Pin=P1-16
+Removed Pin From Net: NetName=VCC Pin=P1-17
+Removed Pin From Net: NetName=VCC Pin=P1-18
+Removed Pin From Net: NetName=VCC Pin=P1-19
+Removed Pin From Net: NetName=VCC Pin=P1-20
+Removed Pin From Net: NetName=5VOUT Pin=P2-1
+Removed Pin From Net: NetName=5VOUT Pin=P2-3
+Removed Pin From Net: NetName=5VOUT Pin=P2-4
+Removed Pin From Net: NetName=5VOUT Pin=P2-5
+Removed Pin From Net: NetName=GND Pin=P2-7
+Removed Pin From Net: NetName=GND Pin=P2-8
+Removed Pin From Net: NetName=GND Pin=P2-9
+Removed Pin From Net: NetName=GND Pin=P2-10
+Removed Pin From Net: NetName=VCC Pin=P2-11
+Removed Pin From Net: NetName=VCC Pin=P2-12
+Removed Pin From Net: NetName=VCC Pin=P2-13
+Removed Pin From Net: NetName=VCC Pin=P2-14
+Removed Pin From Net: NetName=VCC Pin=P2-15
+Removed Pin From Net: NetName=VCC Pin=P2-16
+Removed Pin From Net: NetName=VCC Pin=P2-17
+Removed Pin From Net: NetName=VCC Pin=P2-18
+Removed Pin From Net: NetName=VCC Pin=P2-19
+Removed Pin From Net: NetName=VCC Pin=P2-20
+Removed Pin From Net: NetName=GND Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=P3-2
+Removed Pin From Net: NetName=GND Pin=P3-5
+Removed Pin From Net: NetName=GND Pin=P3-6
+Removed Pin From Net: NetName=5VOUT Pin=P4-1
+Removed Pin From Net: NetName=5VOUT Pin=P4-2
+Removed Pin From Net: NetName=5VOUT Pin=P4-3
+Removed Pin From Net: NetName=5VOUT Pin=P4-4
+Removed Pin From Net: NetName=5VOUT Pin=P4-5
+Removed Pin From Net: NetName=GND Pin=P4-6
+Removed Pin From Net: NetName=GND Pin=P4-7
+Removed Pin From Net: NetName=GND Pin=P4-8
+Removed Pin From Net: NetName=GND Pin=P4-9
+Removed Pin From Net: NetName=GND Pin=P4-10
+Removed Pin From Net: NetName=VCC Pin=P4-11
+Removed Pin From Net: NetName=VCC Pin=P4-12
+Removed Pin From Net: NetName=VCC Pin=P4-13
+Removed Pin From Net: NetName=VCC Pin=P4-14
+Removed Pin From Net: NetName=VCC Pin=P4-15
+Removed Pin From Net: NetName=VCC Pin=P4-16
+Removed Pin From Net: NetName=VCC Pin=P4-17
+Removed Pin From Net: NetName=VCC Pin=P4-18
+Removed Pin From Net: NetName=VCC Pin=P4-19
+Removed Pin From Net: NetName=VCC Pin=P4-20
+Removed Pin From Net: NetName=5VOUT Pin=P5-1
+Removed Pin From Net: NetName=5VOUT Pin=P5-2
+Removed Pin From Net: NetName=5VOUT Pin=P5-3
+Removed Pin From Net: NetName=5VOUT Pin=P5-4
+Removed Pin From Net: NetName=5VOUT Pin=P5-5
+Removed Pin From Net: NetName=GND Pin=P5-6
+Removed Pin From Net: NetName=GND Pin=P5-7
+Removed Pin From Net: NetName=GND Pin=P5-8
+Removed Pin From Net: NetName=GND Pin=P5-9
+Removed Pin From Net: NetName=GND Pin=P5-10
+Removed Pin From Net: NetName=VCC Pin=P5-11
+Removed Pin From Net: NetName=VCC Pin=P5-12
+Removed Pin From Net: NetName=VCC Pin=P5-13
+Removed Pin From Net: NetName=VCC Pin=P5-14
+Removed Pin From Net: NetName=VCC Pin=P5-15
+Removed Pin From Net: NetName=VCC Pin=P5-16
+Removed Pin From Net: NetName=VCC Pin=P5-17
+Removed Pin From Net: NetName=VCC Pin=P5-18
+Removed Pin From Net: NetName=VCC Pin=P5-19
+Removed Pin From Net: NetName=VCC Pin=P5-20
+Removed Pin From Net: NetName=GND Pin=P6-1
+Removed Pin From Net: NetName=GND Pin=P6-2
+Removed Pin From Net: NetName=GND Pin=P6-5
+Removed Pin From Net: NetName=GND Pin=P6-6
+Removed Member From Class: ClassName=ZenDriver_Master Member=P3
+Removed Member From Class: ClassName=ZenDriver_Master Member=P4
+Removed Member From Class: ClassName=ZenDriver_Master Member=P5
+Removed Member From Class: ClassName=ZenDriver_Master Member=P6
+Change Component Footprint: Designator=P1 Old Footprint=MHDR1X20 New Footprint=HDR1X10
+Change Component Footprint: Designator=P2 Old Footprint=MHDR1X20 New Footprint=HDR1X10
+Change Component Comment : Designator=P1 Old Comment=MHDR1X20 New Comment=Header 10
+Change Component Comment : Designator=P2 Old Comment=MHDR1X20 New Comment=Header 10
+Change Component Designator: OldDesignator=C1 NewDesignator=C6
+Change Component Designator: OldDesignator=C2 NewDesignator=C8
+Change Component Designator: OldDesignator=C3 NewDesignator=C9
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=R1 NewDesignator=R7
+Change Component Designator: OldDesignator=R2 NewDesignator=R5
+Change Component Designator: OldDesignator=R3 NewDesignator=R6
+Change component parameters: Designator = "C6"; Footprint = "0603_C"; UniqueID = "\EEMKMBLO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_15331.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C14663"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8"; Footprint = "0603_C"; UniqueID = "\OQAOCATD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_15331.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C14663"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2"; Footprint = "0603_LED_S1"; UniqueID = "\NKCGBSYB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_2659.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C2286"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "0603_R"; UniqueID = "\CVDWDUNA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_23906.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C23179"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "0603_R"; UniqueID = "\LVOKSMLL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_21904.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C21190"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "0603_R"; UniqueID = "\NUNUMRJX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_4618.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C4211"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR1"; Footprint = "TO-252-2-180"; UniqueID = "\DAJNXPYL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_76635.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TO-252-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C75510"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAPPM3216X180N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/1680476.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TAJA475M025RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-TAJA475M025RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "http://www.mouser.com/Search/ProductDetail.aspx?qs=aS9KCxSWVDbNY%252b7%2fq0OjTA%3d%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPPM7343X310N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/ds/2/212/kemet_kem_t2008_t494-544880.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "T494D106K035AH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-T494D106K035AH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=80-T494D106K035AH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(0603_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_1983.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C1631"; VariantName = "[No Variations]"
+Added Component: Designator=C4(0603_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_15331.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C14663"; VariantName = "[No Variations]"
+Added Component: Designator=C5(0603_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_58143.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C57112"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SOD3716X145N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70437536"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/diodes-inc-b130law-7-f/70437536/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-emea.rs-online.com/webdocs/104e/0900766b8104e347.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B130LAW-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-B130LAW-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=621-B130LAW-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "7513193P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/7513193P"; VariantName = "[No Variations]"
+Added Component: Designator=L1(74404064470)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.com/pbs/datasheet/74404064100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74404064100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-74404064100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-74404064100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "8142663P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/8142663P"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0603_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_23570.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C22843"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0603_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_23570.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C22843"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0603_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_23939.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C23212"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=5VOUT Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=5VOUT Pin=L1-1
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=VCC Pin=P1-7
+Added Pin To Net: NetName=VCC Pin=P1-8
+Added Pin To Net: NetName=VCC Pin=P1-9
+Added Pin To Net: NetName=VCC Pin=P1-10
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P2-5
+Added Pin To Net: NetName=VCC Pin=P2-7
+Added Pin To Net: NetName=VCC Pin=P2-8
+Added Pin To Net: NetName=VCC Pin=P2-9
+Added Pin To Net: NetName=VCC Pin=P2-10
+Added Pin To Net: NetName=5VOUT Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Change Net Name : Old Net Name=NetD1_A New Net Name=NetD2_A
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR5_1
+Added Pin To Net: NetName=ND Pin=R2-1
+Added Net: Name=ND
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=IC1-6
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R3-1
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=IC1-8
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=D1-1
+Added Pin To Net: NetName=NetC5_1 Pin=IC1-3
+Added Pin To Net: NetName=NetC5_1 Pin=L1-2
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=IC1-1
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetIC1_5 Pin=IC1-5
+Added Pin To Net: NetName=NetIC1_5 Pin=R1-1
+Added Pin To Net: NetName=NetIC1_5 Pin=R2-2
+Added Net: Name=NetIC1_5
+Added Member To Class: ClassName=ZenDriver_Master Member=Component C4 100nF (104) 10% 50V
+Added Member To Class: ClassName=ZenDriver_Master Member=Component C5 10nF (103) 10% 50V
+Added Member To Class: ClassName=ZenDriver_Master Member=Component C6 100nF (104) 10% 50V
+Added Member To Class: ClassName=ZenDriver_Master Member=Component C8 100nF (104) 10% 50V
+Added Member To Class: ClassName=ZenDriver_Master Member=Component C9 1000uf 25v
+Added Member To Class: ClassName=ZenDriver_Master Member=Component D2 红灯 0603
+Added Member To Class: ClassName=ZenDriver_Master Member=Component L1 1040 10UH 5A
+Added Member To Class: ClassName=ZenDriver_Master Member=Component R5 1KΩ (1001) ±1%
+Added Member To Class: ClassName=ZenDriver_Master Member=Component R6 3KΩ (3001) ±1%
+Added Member To Class: ClassName=ZenDriver_Master Member=Component R7 4.7k
+Added Room: Name=ZenDriver_Master

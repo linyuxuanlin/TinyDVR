@@ -1,0 +1,86 @@
+Removed Pin From Net: NetName=VCC Pin=IC1-2
+Removed Pin From Net: NetName=VCC Pin=P7-1
+Removed Pin From Net: NetName=VCC Pin=R4-1
+Added Component: Designator=C10(0603_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_15331.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C14663"; VariantName = "[No Variations]"
+Added Component: Designator=P8(HDR1X2H)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0603_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_26547.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25804"; VariantName = "[No Variations]"
+Added Component: Designator=R9(0603_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_26547.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25804"; VariantName = "[No Variations]"
+Added Component: Designator=R10(0603_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_21904.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C21190"; VariantName = "[No Variations]"
+Added Component: Designator=R11(0603_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_23702.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C22975"; VariantName = "[No Variations]"
+Added Component: Designator=U1(DPAK127P1615X127-8N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=5VOUT Pin=P8-2
+Added Pin To Net: NetName=5VOUT Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=R10-1
+Added Pin To Net: NetName=NetC10_1 Pin=U1-5
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetP8_1 Pin=P8-1
+Added Pin To Net: NetName=NetP8_1 Pin=R8-1
+Added Net: Name=NetP8_1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U1-2
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=U1-3
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=U1-6
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=VCCIN Pin=IC1-2
+Added Pin To Net: NetName=VCCIN Pin=P7-1
+Added Pin To Net: NetName=VCCIN Pin=R4-1
+Added Pin To Net: NetName=VCCIN Pin=U1-7
+Added Net: Name=VCCIN
+Added Member To Class: ClassName=ZenDriver_Master Member=Component C10 100nF (104) 10% 50V
+Added Member To Class: ClassName=ZenDriver_Master Member=Component P8 Header 2H
+Added Member To Class: ClassName=ZenDriver_Master Member=Component R8 10KΩ (1002) ±1%
+Added Member To Class: ClassName=ZenDriver_Master Member=Component R9 10KΩ (1002) ±1%
+Added Member To Class: ClassName=ZenDriver_Master Member=Component R10 1KΩ (1001) ±1%
+Added Member To Class: ClassName=ZenDriver_Master Member=Component R11 2KΩ (2001) ±1%
+Added Member To Class: ClassName=ZenDriver_Master Member=Component U1 BTN7971
+Added Room: Name=ZenDriver_Master
