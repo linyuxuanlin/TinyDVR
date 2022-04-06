@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=VCC Pin=C9-1
-Added Pin To Net: NetName=VCCIN Pin=C9-1
-Added Room: Name=ZenDriver_Master

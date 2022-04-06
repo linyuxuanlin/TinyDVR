@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=VCC Pin=C1-1
-Removed Pin From Net: NetName=GND Pin=C1-2
-Removed Member From Class: ClassName=ZenDriver_Master Member=C1
-Added Room: Name=ZenDriver_Master
